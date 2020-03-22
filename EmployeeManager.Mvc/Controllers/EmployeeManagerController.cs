@@ -30,5 +30,32 @@ namespace EmployeeManager.Mvc.Controllers
              }).ToList();
             ViewBag.Countries = countries;
         }
+
+        public IActionResult List()
+        {
+            List<Employee> model = (from e in db.Employees
+                                    orderby e.EmployeeID
+                                    select e).ToList();
+            return View(model);
+        }
+
+        public IActionResult Insert()
+        {
+            FillCountries();
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Insert(Employee model)
+        {
+            FillCountries();
+            if (ModelState.IsValid)
+            {
+                db.Employees.Add(model);
+                db.SaveChanges();
+                ViewBag.Message = "Employee inserted successfully";
+            }
+            return View(model);
+        }
     }
 }
