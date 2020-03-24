@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "XVXbB5S5paUPn8oGQ/gzfXCD+ZMGhDu3lZILovaXSPOA21pZZMcBadmxuf3CdBnZDWFOZ5gTBjTMJTVL7pzoXw==",
+  "dgSpecHash": "80d1K8SB8c1Mn5pVnZKnddNGO2VhvqqaiivUAJ61i/37OUhNLLnnumP2+/DN1iQuKOiArYLdObBKMsKiG5Ecig==",
   "success": true,
   "projectFilePath": "C:\\Study\\study01-using-asp.net-core-3\\EmployeeManager.Mvc\\EmployeeManager.Mvc.csproj",
   "expectedPackageFiles": [
@@ -9,11 +9,12 @@
     "C:\\Users\\vikta\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\3.1.2\\microsoft.aspnetcore.identity.entityframeworkcore.3.1.2.nupkg.sha512",
     "C:\\Users\\vikta\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\vikta\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
-    "C:\\Users\\vikta\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\vikta\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\vikta\\.nuget\\packages\\microsoft.data.sqlclient\\1.0.19269.1\\microsoft.data.sqlclient.1.0.19269.1.nupkg.sha512",
     "C:\\Users\\vikta\\.nuget\\packages\\microsoft.entityframeworkcore\\3.1.2\\microsoft.entityframeworkcore.3.1.2.nupkg.sha512",
     "C:\\Users\\vikta\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\3.1.2\\microsoft.entityframeworkcore.abstractions.3.1.2.nupkg.sha512",
     "C:\\Users\\vikta\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\3.1.2\\microsoft.entityframeworkcore.analyzers.3.1.2.nupkg.sha512",
+    "C:\\Users\\vikta\\.nuget\\packages\\microsoft.entityframeworkcore.design\\3.1.2\\microsoft.entityframeworkcore.design.3.1.2.nupkg.sha512",
     "C:\\Users\\vikta\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.1.2\\microsoft.entityframeworkcore.relational.3.1.2.nupkg.sha512",
     "C:\\Users\\vikta\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\3.1.2\\microsoft.entityframeworkcore.sqlserver.3.1.2.nupkg.sha512",
     "C:\\Users\\vikta\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.2\\microsoft.extensions.caching.abstractions.3.1.2.nupkg.sha512",

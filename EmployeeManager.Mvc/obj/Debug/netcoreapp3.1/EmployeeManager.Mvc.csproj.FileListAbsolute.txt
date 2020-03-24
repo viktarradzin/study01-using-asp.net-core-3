@@ -105,3 +105,11 @@ C:\Study\study01-using-asp.net-core-3\EmployeeManager.Mvc\obj\Debug\netcoreapp3.
 C:\Study\study01-using-asp.net-core-3\EmployeeManager.Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Study\study01-using-asp.net-core-3\EmployeeManager.Mvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
 C:\Study\study01-using-asp.net-core-3\EmployeeManager.Mvc\bin\Debug\netcoreapp3.1\libman.json
+C:\Study\study01-using-asp.net-core-3\EmployeeManager.Mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Study\study01-using-asp.net-core-3\EmployeeManager.Mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Study\study01-using-asp.net-core-3\EmployeeManager.Mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Study\study01-using-asp.net-core-3\EmployeeManager.Mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Study\study01-using-asp.net-core-3\EmployeeManager.Mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Study\study01-using-asp.net-core-3\EmployeeManager.Mvc\obj\Debug\netcoreapp3.1\EmployeeManager.Mvc.csproj.CoreCompileInputs.cache
+C:\Study\study01-using-asp.net-core-3\EmployeeManager.Mvc\obj\Debug\netcoreapp3.1\EmployeeManager.Mvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Study\study01-using-asp.net-core-3\EmployeeManager.Mvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll

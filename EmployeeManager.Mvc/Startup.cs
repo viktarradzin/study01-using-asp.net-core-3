@@ -30,11 +30,9 @@ namespace EmployeeManager.Mvc
             services.AddDbContext<AppDbContext>(options => options.UseSqlServer(this.config.GetConnectionString("AppDb")));
 
             services.AddDbContext<AppIdentityDbContext>(options =>
-        options.UseSqlServer(this.config.GetConnectionString("AppDb")));
-
+            options.UseSqlServer(this.config.GetConnectionString("AppDb")));
             services.AddIdentity<AppIdentityUser, AppIdentityRole>()
-                    .AddEntityFrameworkStores<AppIdentityDbContext>();
-
+             .AddEntityFrameworkStores<AppIdentityDbContext>();
             services.ConfigureApplicationCookie(opt =>
             {
                 opt.LoginPath = "/Security/SignIn";
@@ -53,6 +51,7 @@ namespace EmployeeManager.Mvc
             app.UseRouting();
             app.UseAuthentication();
             app.UseAuthorization();
+
             app.UseEndpoints(endpoints => {
                 endpoints.MapControllerRoute(
                  name: "default",
