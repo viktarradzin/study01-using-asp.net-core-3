@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ex5Yx3xHme2G14FvWAs/7amHxFvmUVYf70heHO3miVmDpWwdj43KlpA1KXw4mpYAti5lc9+gPX3QqKsNVtgCVw==",
+  "dgSpecHash": "bGDoMAvbOVEuTkP3qlHq2RWTmL6GzhlxDrhKQV+dgvzkAk/UMKXgY1bq9BumOgXmq/87l9qMlGjJKsLnYs4l1g==",
   "success": true,
-  "projectFilePath": "C:\\Study\\EmployeeManager.Mvc\\EmployeeManager.Mvc\\EmployeeManager.Mvc.csproj",
+  "projectFilePath": "C:\\Study\\study01-using-asp.net-core-3\\EmployeeManager.Mvc\\EmployeeManager.Mvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vikta\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\vikta\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
