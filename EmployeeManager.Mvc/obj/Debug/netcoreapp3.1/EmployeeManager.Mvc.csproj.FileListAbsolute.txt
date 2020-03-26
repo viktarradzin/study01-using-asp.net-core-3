@@ -113,3 +113,6 @@ C:\Study\study01-using-asp.net-core-3\EmployeeManager.Mvc\bin\Debug\netcoreapp3.
 C:\Study\study01-using-asp.net-core-3\EmployeeManager.Mvc\obj\Debug\netcoreapp3.1\EmployeeManager.Mvc.csproj.CoreCompileInputs.cache
 C:\Study\study01-using-asp.net-core-3\EmployeeManager.Mvc\obj\Debug\netcoreapp3.1\EmployeeManager.Mvc.MvcApplicationPartsAssemblyInfo.cache
 C:\Study\study01-using-asp.net-core-3\EmployeeManager.Mvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Study\study01-using-asp.net-core-3\EmployeeManager.Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Security\AccessDenied.cshtml.g.cs
+C:\Study\study01-using-asp.net-core-3\EmployeeManager.Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Security\Register.cshtml.g.cs
+C:\Study\study01-using-asp.net-core-3\EmployeeManager.Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Security\SignIn.cshtml.g.cs
